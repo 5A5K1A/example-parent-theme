@@ -1,0 +1,5 @@
+# @todo add security here
+# deny everything in /studio/ except for images
+<Files *.php>
+deny from all
+</Files>
